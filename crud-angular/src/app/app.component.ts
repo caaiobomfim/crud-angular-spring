@@ -10,7 +10,7 @@ import { RouterOutlet } from '@angular/router';
     MatToolbarModule
   ],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrl: './app.component.scss'
 })
 export class AppComponent {
   title = 'crud-angular';
